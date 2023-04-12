@@ -1,4 +1,4 @@
-# Python-Selenium-test-sample
+# Python selenium test sample
 
 - 自動化Web測試簡易案例
 
